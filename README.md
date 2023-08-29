@@ -17,7 +17,10 @@ Alcohol intake | Subjective Feature | alco | binary |
 Physical activity | Subjective Feature | active | binary |
 Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
-![image](https://github.com/vaisha01/predicton-of-cardiovascular-disease/assets/120439369/2f79309c-4b1b-4c7a-9de0-79db92a0bb31)
+![image](https://github.com/vaisha01/predicton-of-cardiovascular-disease/assets/120439369/2f79309c-4b1b-4c7a-9de0-79db92a0bb31) ![image](https://github.com/vaisha01/predicton-of-cardiovascular-disease/assets/120439369/23401caf-f87d-4f2b-a420-d531c89a4d70)
+
 From the above graphs,
 1. Individuals between the ages of 55 and 65 have a higher risk of developing cardiovascular disease.
 2. It is important to note that between the ages of 40 and 50, the likelihood of developing cardiovascular disease is lower. Additionally, the dataset shows that approximately 65% of cases are women and 35% are men, but the proportions of those with and without the disease are similar in both groups.
+   
+   
